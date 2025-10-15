@@ -7,7 +7,6 @@ This repository contains the source code for my personal portfolio website, buil
 ---
 
 ![Portfolio Screenshot](./images/screenshot.png) 
-*(You should add a screenshot of your website to the repository and link it here)*
 
 ---
 
@@ -44,5 +43,5 @@ To get a local copy up and running, follow these simple steps.
 
 ## 📫 Contact
 
-* **[Email](mailto:abhijeetsoni07@gmail.com)**
-* **[LinkedIn](https://www.linkedin.com/in/abhijeet-soni-75210122a)**
+* **[Email](mailto:abhisoni7810@gmail.com)**
+* **[LinkedIn](https://www.linkedin.com/in/abhijeet-soni-b31ba5278)**
