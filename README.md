@@ -2,17 +2,19 @@
 
 This repository contains the source code for my personal portfolio website, built to showcase my skills and projects in AI and Data Science.
 
-### 🚀 **Live Demo: [https://abhijeetsoni07.github.io/](https://abhijeetsoni07.github.io/)**
-
----
-
-![Portfolio Screenshot](./images/Screenshot.png) 
-
 ---
 
 ## About This Project
 
 This is a clean, fully-responsive, single-page portfolio built from scratch to provide a comprehensive overview of my professional profile. The goal was to create a fast and accessible user experience to effectively present my work to potential employers and collaborators.
+
+---
+
+### 🚀 **Live Demo: [https://abhijeetsoni07.github.io/](https://abhijeetsoni07.github.io/)**
+
+---
+
+![Portfolio Screenshot](./images/Screenshot.png) 
 
 ---
 
